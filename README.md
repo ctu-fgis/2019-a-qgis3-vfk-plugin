@@ -1,7 +1,7 @@
-# Zadání
+# Assignment
 
 TODO
 
-# Autor
+# Author
 
 Lucie Stará
