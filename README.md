@@ -1,7 +1,7 @@
-# Zadání
+# Assignment
 
-TODO
+VFK plugin: rewriting for QGIS3
 
-# Autor
+# Author
 
 Lucie Stará
